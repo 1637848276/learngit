@@ -1,29 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="54a6bfd4-f327-4d86-a546-203ef152453b" name="Default Changelist" comment="" />
+    <list default="true" id="54a6bfd4-f327-4d86-a546-203ef152453b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/springmvc-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/springmvc-config.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
         <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
       </MavenImportingSettings>
     </option>
   </component>
   <component name="ProjectId" id="1vXQIy8WVnrnZ6dAHyF4sdPzDbS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="D:/WorkSpace/基于SSM架构的短租公寓客房管理系统的设计与实现/landi" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -48,6 +64,7 @@
       <option name="presentableId" value="Default" />
       <updated>1626705877464</updated>
       <workItem from="1626705883274" duration="6862000" />
+      <workItem from="1626738773769" duration="4056000" />
     </task>
     <servers />
   </component>
@@ -55,17 +72,41 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="223" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1626713843290">
+    <state x="223" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1626742009704">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="223" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1626713843290" />
+    <state x="223" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1626742009704" />
     <state x="391" y="94" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1626713882386">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="391" y="94" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1536.824@0.0.1536.824" timestamp="1626713882386" />
-    <state x="549" y="171" key="FileChooserDialogImpl" timestamp="1626712149982">
+    <state x="522" y="171" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1626741803668">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1626712149982" />
+    <state x="522" y="171" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1536.824@0.0.1536.824" timestamp="1626741803668" />
+    <state x="549" y="171" key="FileChooserDialogImpl" timestamp="1626742997072">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1626742997072" />
+    <state x="272" y="0" key="SettingsEditor" timestamp="1626743247719">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="272" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1626743247719" />
+    <state x="461" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1626740260320">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="461" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1626740260320" />
+    <state x="201" y="117" key="new project wizard" timestamp="1626743224893">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="201" y="117" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1626743224893" />
+    <state x="425" y="187" width="672" height="677" key="run.anything.popup" timestamp="1626741592705">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" width="672" height="677" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1626741592705" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1626741423626">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1626741423626" />
   </component>
 </project>
